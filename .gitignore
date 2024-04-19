@@ -1,0 +1,19 @@
+#
+# .gigignore
+#
+
+## BACKUP & TEMPORARY FILES ##
+
+*~
+*.bak
+*.tmp
+*.swp
+*#
+
+
+## BUILD ARTIFACTS ##
+
+*.o
+*.o.d
+SimulationSstv/build/Debug/GNU-Linux/
+SimulationSstv/dist/Debug/GNU-Linux/
